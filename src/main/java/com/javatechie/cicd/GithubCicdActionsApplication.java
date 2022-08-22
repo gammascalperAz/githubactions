@@ -11,7 +11,7 @@ public class GithubCicdActionsApplication {
 
 	@GetMapping("/welcome")
 	public String welcome(){
-		return "Welcome Lana and Sean !";
+		return "Welcome Sean and Lana !";
 	}
 
 //	echo "# github-actions-example" >> README.md
